@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BMV-777/green.git/static/css/main.7acaea2f.css",
-    "main.js": "/BMV-777/green.git/static/js/main.0d10e039.js",
-    "static/js/787.6b7abe35.chunk.js": "/BMV-777/green.git/static/js/787.6b7abe35.chunk.js",
-    "index.html": "/BMV-777/green.git/index.html",
-    "main.7acaea2f.css.map": "/BMV-777/green.git/static/css/main.7acaea2f.css.map",
-    "main.0d10e039.js.map": "/BMV-777/green.git/static/js/main.0d10e039.js.map",
-    "787.6b7abe35.chunk.js.map": "/BMV-777/green.git/static/js/787.6b7abe35.chunk.js.map"
+    "main.css": "/green/static/css/main.7acaea2f.css",
+    "main.js": "/green/static/js/main.fca45176.js",
+    "static/js/787.6b7abe35.chunk.js": "/green/static/js/787.6b7abe35.chunk.js",
+    "index.html": "/green/index.html",
+    "main.7acaea2f.css.map": "/green/static/css/main.7acaea2f.css.map",
+    "main.fca45176.js.map": "/green/static/js/main.fca45176.js.map",
+    "787.6b7abe35.chunk.js.map": "/green/static/js/787.6b7abe35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.0d10e039.js"
+    "static/js/main.fca45176.js"
   ]
 }
